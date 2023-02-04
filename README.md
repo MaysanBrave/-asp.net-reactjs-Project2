@@ -1,4 +1,4 @@
-<h1 align="center"> :shopping_cart: kashkart :shopping: </h1>
+<h1 align="center"> :shopping_cart:  </h1>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen" alt="Platform-Web">
